@@ -1,0 +1,17 @@
+{
+  "name": "jio-nodejs-assignment",
+  "version": "1.0.0",
+  "description": "Project to display top gainers and losers from MoneyControl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "chalk": "^2.4.1",
+    "cheerio": "^1.0.0-rc.10",
+    "console-table-printer": "^2.10.0"
+  }
+}
